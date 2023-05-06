@@ -1,1 +1,1 @@
-# golangCourseSnippets
+# Golang snippets and fundamentals components
